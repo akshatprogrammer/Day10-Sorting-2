@@ -16,7 +16,7 @@
               4. Merge the two halves sorted in step 2 and 3:
                  Call merge(arr, l, m, r)
                  
-[HeaderFile]()
+[HeaderFile](https://github.com/akshatprogrammer/Day10-Sorting-2/blob/main/MergeSort.h)
 
 ## Quick Sort
 * QuickSort is a Divide and Conquer algorithm. 
@@ -42,7 +42,7 @@ There are many different versions of quickSort that pick pivot in different ways
         quickSort(arr, pi + 1, high); // After pi
         }
     }
-**Partition Algorith**</br>
+**Partition Algorithm**</br>
     
     partition (arr[], low, high)
     {
@@ -63,3 +63,19 @@ There are many different versions of quickSort that pick pivot in different ways
     swap arr[i + 1] and arr[high])
     return (i + 1)
     } 
+[Header File](https://github.com/akshatprogrammer/Day10-Sorting-2/blob/main/QuickSort.h)
+
+# Connect With Me
+LinkedIn : https://www.linkedin.com/in/akshat-jain-a24baa18a/<br/>
+Email : akshat.kodia@gmail.com<br/>
+Twitter : www.twitter.com/akki_aj89<br/>
+
+# Personal
+Name : Akshat Jain<br/>
+University : Graphic Era University, Dehradun(UK)
+
+If any problem with this program reach me at Telegram<br/>
+Here is the link -> https://t.me/akki_aj89
+
+# Gratitude
+Thank You, if you like it please leave a Star.
